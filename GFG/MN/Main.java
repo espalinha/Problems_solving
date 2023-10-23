@@ -6,7 +6,7 @@
 
 /*
  * Ideia:
- *       Uso do algoritmo de ordenamento MergeSort para poder colocar os elementos em ordem. Para assim, no final só precisarmos trabalhar com um O(n), em que n é o tamanho da lista. *isso desconsiderando o O() do MergeSort*
+ *       Uso do algoritmo de ordenamento MergeSort para poder colocar os elementos em ordem, para assim, no final só precisarmos trabalhar com um O(n), em que n é o tamanho da lista. *isso desconsiderando o O() do MergeSort*
  * 
  * A entrada é feita pelo terminal linux --> java-introcs Main < data.txt
  */
